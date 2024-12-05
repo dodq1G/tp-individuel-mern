@@ -58,8 +58,8 @@ Le Bon Coin Clone est une application web MERN (MongoDB, Express, React, Node.js
 
 1. **Cloner le dépôt**
    ```bash
-   git clone https://github.com/votre-repository/boncoin-clone.git
-   cd boncoin-clone
+   git [clone https://github.com/tp-individuel-mern/boncoin-clone.git](https://github.com/dodq1G/tp-individuel-mern.git)
+   cd tp-individuel-mern
    ```
 
 2. **Configurer le backend**
